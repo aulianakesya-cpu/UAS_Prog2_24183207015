@@ -27,6 +27,7 @@ Sistem Manajemen Akademik sederhana berbasis console yang dibangun menggunakan b
 Proyek ini menggunakan struktur kelas yang saling berhubungan sebagai berikut:
 
 **Deskripsi Komponen:**
+
 ◉ User.java (Abstract Class): Kelas induk yang menyimpan properti umum (id, nama).
 
 ◉ Mahasiswa.java & Dosen.java (Inheritance): Turunan dari kelas User dengan atribut spesifik masing-masing.
