@@ -43,7 +43,6 @@ Proyek ini menggunakan struktur kelas yang saling berhubungan sebagai berikut:
 
 
 # 📋 Contoh Penggunaan
-Setelah menjalankan aplikasi, Anda akan melihat menu utama:
 
 ===SISTEM AKADEMIK===
 1. Input Data Mahasiswa
